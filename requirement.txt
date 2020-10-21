@@ -1,0 +1,7 @@
+tweepy
+pandas
+time
+os
+flask
+flask_cors
+json
